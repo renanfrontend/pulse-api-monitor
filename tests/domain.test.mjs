@@ -1,0 +1,1 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import * as d from '../src/domain.js';test('Regras de domínio e casos de borda',()=>{assert.equal(d.validateUrl('javascript:alert(1)'),false);assert.equal(d.validateUrl('https://example.com'),true);assert.equal(d.percentile([100,20,30,40],.95),100);});
