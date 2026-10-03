@@ -1,5 +1,7 @@
 # Pulse
 
+🌐 **[Abrir demonstração / Live demo](https://renan-pulse-api-monitor.renan-gabba.chatgpt.site)**
+
 Visibilidade em cada request. Monitor HTTP manual com latência, timeout e histórico. Modo demo sem serviços externos.
 
 Projeto autoral demonstrativo preparado para o portfólio de **Renan Augusto dos Santos**. Não possui backend, autenticação ou dados de produção.
